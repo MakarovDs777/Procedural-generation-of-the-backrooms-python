@@ -43,3 +43,7 @@
 ## Multi-storey-poolrooms-combined
 
 [![Запись_2024_11_08_08_17_48_967.gif](https://i.postimg.cc/1t7zYp2H/Запись_2024_11_08_08_17_48_967.gif)](https://postimg.cc/R6f9WnM6)
+
+## Multi-storey-poolrooms-mega-coridors
+
+[![2024-11-08-23-59-46-205.gif](https://i.postimg.cc/Wb5K5Jr9/2024-11-08-23-59-46-205.gif)](https://postimg.cc/Czfm15cD)
