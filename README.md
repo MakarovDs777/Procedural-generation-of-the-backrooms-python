@@ -32,6 +32,10 @@
 
 [![2024-10-30-18-29-34-73.gif](https://i.postimg.cc/XY7TJqf2/2024-10-30-18-29-34-73.gif)](https://postimg.cc/bsW6VzFb)
 
+## Multi-storey-poolrooms-smooth
+
+[![2024-11-09-02-51-04-581.gif](https://i.postimg.cc/rw7fqTNS/2024-11-09-02-51-04-581.gif)](https://postimg.cc/pmYfBg7T)
+
 ## Multi-storey-poolrooms-askew
 
 [![Запись_2024_11_08_07_57_13_68.gif](https://i.postimg.cc/sX6m2NGR/Запись_2024_11_08_07_57_13_68.gif)](https://postimg.cc/PpDY3KM6)
