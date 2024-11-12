@@ -4,6 +4,10 @@
 
 [![2024-11-08-06-47-27-150.gif](https://i.postimg.cc/3RSZSvnC/2024-11-08-06-47-27-150.gif)](https://postimg.cc/1nF64fxf)
 
+## Single-storey-corridors-without-poolrooms
+
+[![2024-11-12-16-28-52-773.gif](https://i.postimg.cc/NMBpX7Xk/2024-11-12-16-28-52-773.gif)](https://postimg.cc/hJZLWmpX)
+
 ## Single-storey-poolrooms
 
 [![2024-11-03-20-20-13-787.gif](https://i.postimg.cc/8CBZ8HJb/2024-11-03-20-20-13-787.gif)](https://postimg.cc/sBxY75JB)
