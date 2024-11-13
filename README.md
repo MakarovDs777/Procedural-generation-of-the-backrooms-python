@@ -55,3 +55,7 @@
 ## Multi-storey-poolrooms-just-coridors
 
 [![2024-11-13-03-24-40-132.gif](https://i.postimg.cc/W43gS9w2/2024-11-13-03-24-40-132.gif)](https://postimg.cc/DS9SwPND)
+
+## Multi-storey-poolrooms-fixed-height
+
+[![2024-11-13-10-51-44-588.gif](https://i.postimg.cc/FRntvmrq/2024-11-13-10-51-44-588.gif)](https://postimg.cc/BLD75r1c)
