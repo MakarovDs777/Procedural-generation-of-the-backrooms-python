@@ -59,3 +59,7 @@
 ## Multi-storey-poolrooms-fixed-height
 
 [![2024-11-13-10-51-44-588.gif](https://i.postimg.cc/FRntvmrq/2024-11-13-10-51-44-588.gif)](https://postimg.cc/BLD75r1c)
+
+## Multi-storey-poolrooms-fixed-height-one-connection
+
+[![2024-11-14-09-22-10-136.gif](https://i.postimg.cc/g0G4SNwr/2024-11-14-09-22-10-136.gif)](https://postimg.cc/mP6Qh3yG)
