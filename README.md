@@ -70,4 +70,6 @@ it reminded me of the location from [the video - Deepest Regions of the Backroom
 
 [![2024-11-15-17-16-14-761.gif](https://i.postimg.cc/cLkR3NNs/2024-11-15-17-16-14-761.gif)](https://postimg.cc/VJM0yp6T)
 
+## Multi-storey-hypercube-fork-diagonally
 
+[![2024-11-15-15-40-48-247.gif](https://i.postimg.cc/cJzTchsp/2024-11-15-15-40-48-247.gif)](https://postimg.cc/2q44k4LG)
