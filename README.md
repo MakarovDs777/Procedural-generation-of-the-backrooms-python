@@ -26,7 +26,7 @@
 
 it reminded me of the location from the video - Deepest Regions of the Backrooms
 
-<video src='https://youtu.be/KyJJrZOc4cw?si=B7fhkq-JK5mVOwxK&t=23' width=180/>
+[![Название видео](https://youtu.be/KyJJrZOc4cw?si=B7fhkq-JK5mVOwxK&t=23)](https://youtu.be/KyJJrZOc4cw?si=B7fhkq-JK5mVOwxK&t=23)
 
 ## Multi-storey-chaos
 
