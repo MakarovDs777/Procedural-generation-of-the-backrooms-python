@@ -73,3 +73,8 @@ it reminded me of the location from [the video - Deepest Regions of the Backroom
 ## Multi-storey-hypercube-fork-diagonally
 
 [![2024-11-15-15-40-48-247.gif](https://i.postimg.cc/cJzTchsp/2024-11-15-15-40-48-247.gif)](https://postimg.cc/2q44k4LG)
+
+## Hypercube-poolrooms
+
+[![2024-11-16-08-22-14-199.gif](https://i.postimg.cc/wMHt05qp/2024-11-16-08-22-14-199.gif)](https://postimg.cc/R6sV0HJs)
+
