@@ -99,3 +99,5 @@ it reminded me of the location from [the video - Deepest Regions of the Backroom
 ## The-black-zone-backrooms
 
 [![2024-11-17-09-55-44-85.gif](https://i.postimg.cc/jqGCXGsT/2024-11-17-09-55-44-85.gif)](https://postimg.cc/bd9zYVDV)
+
+The black zone is where the corridors and rooms are generated separately from each other hanging in a noclipping space, and like you can get there by falling out of reality but you can't come back from there.
