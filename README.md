@@ -78,5 +78,13 @@ it reminded me of the location from [the video - Deepest Regions of the Backroom
 
 [![2024-11-16-08-22-14-199.gif](https://i.postimg.cc/wMHt05qp/2024-11-16-08-22-14-199.gif)](https://postimg.cc/R6sV0HJs)
 
+## Hypercube-without-rooms
+
+[![2024-11-18-10-51-43-361.gif](https://i.postimg.cc/d1bR8V0T/2024-11-18-10-51-43-361.gif)](https://postimg.cc/qhGCr0yk)
+
+## Corridor-multi-storey-chaos-poolrooms
+
+[![2024-11-17-15-10-41-931.gif](https://i.postimg.cc/qvHK1xtZ/2024-11-17-15-10-41-931.gif)](https://postimg.cc/zVp3BWFn)
+
 # Trimesh
 
