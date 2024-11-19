@@ -88,3 +88,10 @@ it reminded me of the location from [the video - Deepest Regions of the Backroom
 
 # Trimesh
 
+## A-building-with-random-pillars
+
+[![2024-11-19-12-16-07-121.gif](https://i.postimg.cc/0QsW525G/2024-11-19-12-16-07-121.gif)](https://postimg.cc/KK0rJbM4)
+
+## A-building-with-random-walls
+
+[![2024-11-19-13-17-28-298.gif](https://i.postimg.cc/JzVGqPmh/2024-11-19-13-17-28-298.gif)](https://postimg.cc/KRfGc71X)
