@@ -105,3 +105,7 @@ The black zone is where the corridors and rooms are generated separately from ea
 ## Perfect-columns
 
 [![2024-11-20-19-04-15-207.gif](https://i.postimg.cc/QxzRgk6C/2024-11-20-19-04-15-207.gif)](https://postimg.cc/bsQCpbff)
+
+## The maze into the room
+
+[![2024-11-20-20-58-44-561.gif](https://i.postimg.cc/L8TF7H17/2024-11-20-20-58-44-561.gif)](https://postimg.cc/JsGFHCKc)
