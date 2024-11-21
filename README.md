@@ -113,3 +113,7 @@ The black zone is where the corridors and rooms are generated separately from ea
 ## Standart-corridors
 
 [![2024-11-21-13-18-40-670.gif](https://i.postimg.cc/bJmyyXLv/2024-11-21-13-18-40-670.gif)](https://postimg.cc/G8swK5W0)
+
+## Empty-room
+
+[![2024-11-21-09-51-36-450.gif](https://i.postimg.cc/RZxm3Bq0/2024-11-21-09-51-36-450.gif)](https://postimg.cc/SJd35H60)
