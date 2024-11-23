@@ -90,6 +90,10 @@ it reminded me of the location from [the video - Deepest Regions of the Backroom
 
 [![2024-11-12-16-51-04-317.gif](https://i.postimg.cc/B6rdLw37/2024-11-12-16-51-04-317.gif)](https://postimg.cc/2bxHgGVn)
 
+## Hypercube-spherical
+
+[![2024-11-23-12-48-03-478.gif](https://i.postimg.cc/P5wrpDz0/2024-11-23-12-48-03-478.gif)](https://postimg.cc/qNpdWzFG)
+
 ## Multi-storey-curved-corridor
 
 [![Запись_2024_11_12_17_16_12_144.gif](https://i.postimg.cc/BZLGNHwB/Запись_2024_11_12_17_16_12_144.gif)](https://postimg.cc/5jVG2YJX)
