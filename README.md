@@ -129,3 +129,7 @@ The black zone is where the corridors and rooms are generated separately from ea
 ## Empty-room
 
 [![2024-11-21-09-51-36-450.gif](https://i.postimg.cc/RZxm3Bq0/2024-11-21-09-51-36-450.gif)](https://postimg.cc/SJd35H60)
+
+## Rooms-with- piles-of-garbage
+
+[![2024-11-26-14-46-09-539.gif](https://i.postimg.cc/T2Sk77rh/2024-11-26-14-46-09-539.gif)](https://postimg.cc/z3CS3k21)
