@@ -133,3 +133,7 @@ The black zone is where the corridors and rooms are generated separately from ea
 ## Rooms-with-piles-of-garbage
 
 [![2024-11-26-14-46-09-539.gif](https://i.postimg.cc/T2Sk77rh/2024-11-26-14-46-09-539.gif)](https://postimg.cc/z3CS3k21)
+
+## Corridor hypercube - sharp-angled
+
+[![Запись_2024_11_27_21_35_22_316.gif](https://i.postimg.cc/nhbCzstx/Запись_2024_11_27_21_35_22_316.gif)](https://postimg.cc/tYkXv4Tv)
