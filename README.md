@@ -140,4 +140,5 @@ The black zone is where the corridors and rooms are generated separately from ea
 
 ## Corridors of the backrooms are hollow
 
-[![2024-11-30-02-33-43-213.gif](https://i.postimg.cc/0NnYfrbS/2024-11-30-02-33-43-213.gif)](https://postimg.cc/PLLvfXbf)
+![2024-11-30-02-33-43-213](https://github.com/user-attachments/assets/ef6ccbb2-481f-4082-9973-1561523dd142)
+
