@@ -137,3 +137,7 @@ The black zone is where the corridors and rooms are generated separately from ea
 ## Corridor hypercube - sharp-angled
 
 [![Запись_2024_11_27_21_35_22_316.gif](https://i.postimg.cc/nhbCzstx/Запись_2024_11_27_21_35_22_316.gif)](https://postimg.cc/tYkXv4Tv)
+
+## Corridors of the backrooms are hollow
+
+[![2024-11-30-02-33-43-213.gif](https://i.postimg.cc/0NnYfrbS/2024-11-30-02-33-43-213.gif)](https://postimg.cc/PLLvfXbf)
