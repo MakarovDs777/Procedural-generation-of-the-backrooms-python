@@ -102,7 +102,7 @@ it reminded me of the location from [the video - Deepest Regions of the Backroom
 
 ## Corridors backrooms is sharp multi-storey
 
-[![2024-11-30-17-05-59-394.gif](https://i.postimg.cc/7ZRJLkF0/2024-11-30-17-05-59-394.gif)](https://postimg.cc/bZQw6KNw)
+![2024-11-30-17-05-59-394](https://github.com/user-attachments/assets/0d89da1b-76cc-417a-ac87-8c6a01540071)
 
 ## The angular corridors of the backrooms are hollow
 
