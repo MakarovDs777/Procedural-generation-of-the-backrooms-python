@@ -102,11 +102,11 @@ it reminded me of the location from [the video - Deepest Regions of the Backroom
 
 ## The angular corridors of the backrooms are hollow
 
-[![2024-11-30-14-05-18-885.gif](https://i.postimg.cc/ZnnFkxvZ/2024-11-30-14-05-18-885.gif)](https://postimg.cc/5QcFLvmk)
+![2024-11-30-14-05-18-885](https://github.com/user-attachments/assets/3b6b47a2-4e8f-4330-8267-56aa71188539)
 
 ## Sharp-angled hollow corridors backrooms with rooms
 
-[![2024-11-30-13-51-50-758.gif](https://i.postimg.cc/520QN2s9/2024-11-30-13-51-50-758.gif)](https://postimg.cc/Lnc8x2dG)
+![2024-11-30-13-51-50-758](https://github.com/user-attachments/assets/60e74f90-809a-4733-9dd9-08de20f3b635)
 
 ## A-building-with-random-pillars
 
