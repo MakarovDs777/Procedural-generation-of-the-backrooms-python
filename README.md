@@ -100,6 +100,10 @@ it reminded me of the location from [the video - Deepest Regions of the Backroom
 
 # Trimesh
 
+## Corridors backrooms is sharp multi-storey
+
+[![2024-11-30-17-05-59-394.gif](https://i.postimg.cc/7ZRJLkF0/2024-11-30-17-05-59-394.gif)](https://postimg.cc/bZQw6KNw)
+
 ## The angular corridors of the backrooms are hollow
 
 ![2024-11-30-14-05-18-885](https://github.com/user-attachments/assets/3b6b47a2-4e8f-4330-8267-56aa71188539)
