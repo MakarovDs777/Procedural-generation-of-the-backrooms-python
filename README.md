@@ -100,6 +100,12 @@ it reminded me of the location from [the video - Deepest Regions of the Backroom
 
 # Trimesh
 
+## The angular corridors of the backrooms are hollow
+
+[![2024-11-30-14-05-18-885.gif](https://i.postimg.cc/ZnnFkxvZ/2024-11-30-14-05-18-885.gif)](https://postimg.cc/5QcFLvmk)
+
+## Sharp-angled hollow corridors backrooms with rooms
+
 ## A-building-with-random-pillars
 
 [![2024-11-19-12-16-07-121.gif](https://i.postimg.cc/0QsW525G/2024-11-19-12-16-07-121.gif)](https://postimg.cc/KK0rJbM4)
