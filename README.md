@@ -100,6 +100,7 @@ it reminded me of the location from [the video - Deepest Regions of the Backroom
 
 # Trimesh
 
+
 ## Corridors backrooms is sharp multi-storey
 
 ![2024-11-30-17-05-59-394](https://github.com/user-attachments/assets/0d89da1b-76cc-417a-ac87-8c6a01540071)
@@ -149,3 +150,8 @@ The black zone is where the corridors and rooms are generated separately from ea
 ## Corridor hypercube - sharp-angled
 
 [![Запись_2024_11_27_21_35_22_316.gif](https://i.postimg.cc/nhbCzstx/Запись_2024_11_27_21_35_22_316.gif)](https://postimg.cc/tYkXv4Tv)
+
+## The most accurate version
+
+![2024-12-03-01-00-21-577](https://github.com/user-attachments/assets/13bed361-b25a-42d9-bc18-f69f0f1070a5)
+![2024-12-03-01-03-09-229](https://github.com/user-attachments/assets/a3b99771-1336-4d38-b472-023773072821)
