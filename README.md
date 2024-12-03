@@ -100,6 +100,10 @@ it reminded me of the location from [the video - Deepest Regions of the Backroom
 
 # Trimesh
 
+## The most accurate version randomly rotated on 360
+
+![2024-12-03-19-03-41-817](https://github.com/user-attachments/assets/75cc117a-9db3-4d2d-a38c-9c6031a94477)
+[![2024-12-03-19-00-19-766.gif](https://i.postimg.cc/1zG5kGbC/2024-12-03-19-00-19-766.gif)](https://postimg.cc/v1ms9VYf)
 
 ## Corridors backrooms is sharp multi-storey
 
