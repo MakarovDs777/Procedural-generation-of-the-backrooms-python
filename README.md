@@ -155,6 +155,10 @@ The black zone is where the corridors and rooms are generated separately from ea
 
 [![Запись_2024_11_27_21_35_22_316.gif](https://i.postimg.cc/nhbCzstx/Запись_2024_11_27_21_35_22_316.gif)](https://postimg.cc/tYkXv4Tv)
 
+## Sharp-angled hollow corridors
+
+![2024-12-04-20-37-37-416](https://github.com/user-attachments/assets/fc419134-4551-408b-89d2-7e121abf330f)
+
 ## The most accurate version
 
 ![2024-12-03-01-00-21-577](https://github.com/user-attachments/assets/13bed361-b25a-42d9-bc18-f69f0f1070a5)
