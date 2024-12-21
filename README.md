@@ -164,3 +164,7 @@ The black zone is where the corridors and rooms are generated separately from ea
 
 ![2024-12-03-01-00-21-577](https://github.com/user-attachments/assets/13bed361-b25a-42d9-bc18-f69f0f1070a5)
 ![2024-12-03-01-03-09-229](https://github.com/user-attachments/assets/a3b99771-1336-4d38-b472-023773072821)
+
+## The most accurate version but they are turned exactly
+
+![Запись_2024_12_21_07_14_50_676](https://github.com/user-attachments/assets/f2b1ee1b-f776-4486-b3a2-83be045ced3f)
